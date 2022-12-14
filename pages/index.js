@@ -112,7 +112,7 @@ const Home = () => (
               <Button
                 variant="ghost"
                 colorScheme="teal"
-                leftIcon={<IoLogoInstagram />}
+               
               >
                 @nagetspesial
               </Button>
@@ -123,7 +123,7 @@ const Home = () => (
               <Button
                 variant="ghost"
                 colorScheme="teal"
-                leftIcon={<IoLogoInstagram />}
+               
               >
                 @jenogurlfie
               </Button>
@@ -134,7 +134,7 @@ const Home = () => (
               <Button
                 variant="ghost"
                 colorScheme="teal"
-                leftIcon={<IoLogoInstagram />}
+               
               >
                 @kiradanbontot
               </Button>
